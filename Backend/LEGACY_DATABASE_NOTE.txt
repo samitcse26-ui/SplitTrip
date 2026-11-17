@@ -1,0 +1,1 @@
+The uploaded trip_planner.db is a SQLite database containing only a users table. The current SplitTrip backend uses MySQL (DB_NAME=trip_planner), so this SQLite file is not used by the backend and is intentionally not included as a replacement database. Its records are not migrated automatically.
